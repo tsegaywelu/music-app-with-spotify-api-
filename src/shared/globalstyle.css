@@ -1,0 +1,7 @@
+/* this screen-container class is for the Library.js file  */
+.screen-container{
+    height: 100%;
+    width: calc(100%-100px);
+    background-color: black;
+    border-radius: 30px;
+}
