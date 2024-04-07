@@ -19,7 +19,7 @@ const Home = () => {
         <Route path='/favorites' element={<Favorites />} />
         <Route path='/player' element={<Player />} />
         
-
+// this is for the purpose of the project 
 
       </Routes>
       </div>
